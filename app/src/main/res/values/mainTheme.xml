@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="mainThemeLight" parent="Base.Theme.Pochti_gotovo">
+        <item name="android:textColor">#FF018786</item>
+    </style>
+</resources>
